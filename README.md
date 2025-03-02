@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RudraBhagat
-- 👀 I’m interested in to become a Data Analyst
+- 👀 I’m interested in to become a Data Analyst/ Data Scientist
 - 🌱 I’m currently pursuing my BTech in Computer Science and Engineering(Artificial Intelligence and Machine Learning)
 - 📫 You can reach me through Linked, Instagram or What's App
 
