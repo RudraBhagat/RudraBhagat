@@ -27,8 +27,7 @@ I'm an aspiring AI & Machine Learning Engineer with hands-on experience in build
 ### 🏋️‍♂️ Fitness Buddy – AI-Powered Virtual Fitness Assistant
 > Built for IBM SkillsBuild Capstone Project
 
-🔗 [GitHub Repo](https://github.com/RudraBhagat/Fitness_Buddy)  
-🔗 [GitHub Pages Demo](https://rudrabhagat.github.io/Fitness_Buddy)
+🔗 [GitHub Repo](https://github.com/RudraBhagat/Fitness_Buddy)
 
 An intelligent fitness coach that provides:
 - Personalized workout and meal plans
@@ -40,7 +39,7 @@ An intelligent fitness coach that provides:
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/rudrabhagat/])  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rudrabhagat/)  
 - 📧 Email: rudrabhagat2625@gmail.com  
 
 ---
