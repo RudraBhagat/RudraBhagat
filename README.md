@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm an aspiring AI & Machine Learning Engineer with hands-on experience in building intelligent applications that solve real-world problems. My focus is on making technology accessible and meaningful through automation, user-centric design, and scalable cloud solutions.
+I'm an aspiring Data Analyst & Machine Learning Engineer with hands-on experience in building intelligent applications that solve real-world problems. My focus is on making technology accessible and meaningful through automation, user-centric design, and scalable cloud solutions.
 
 ---
 
