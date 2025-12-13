@@ -16,7 +16,9 @@ I’m passionate about **applied AI**, continuous learning, and developing solut
 ---
 
 📍 **Location:** India
+
 💼 **Open to:** Internships / Entry-Level Roles / Remote Opportunities
+
 🌍 **Work Authorization:** Open
 
 ---
