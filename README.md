@@ -4,6 +4,9 @@
 ## 👋 Rudra Bhagat
 
 **Machine Learning Engineer | Data Analytics Enthusiast | AI Practitioner**
+
+---
+
 🔓 Open to Opportunities
 
 I specialize in building **data-driven and machine learning solutions** that solve real-world problems. With hands-on experience in predictive modeling, time series forecasting, and AI-powered applications, I focus on turning raw data into meaningful insights and reliable models.
@@ -21,10 +24,15 @@ I’m passionate about **applied AI**, continuous learning, and developing solut
 ## 🎯 What I Bring
 
 ✅ Machine Learning Model Development & Evaluation
+
 ✅ Data Cleaning, Analysis & Feature Engineering
+
 ✅ Predictive Analytics & Time Series Forecasting
+
 ✅ Deep Learning Fundamentals (CNNs, RNNs, Transformers)
+
 ✅ AI-Driven Decision Support Systems
+
 ✅ Model Deployment using Flask
 
 ---
