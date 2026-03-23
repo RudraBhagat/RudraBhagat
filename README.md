@@ -1,6 +1,6 @@
 # Rudra Bhagat
 
-### Machine Learning Engineer | Data Analytics Enthusiast | AI Practitioner
+### Data Scientist | Machine Learning Engineer | Data Analytics Enthusiast | AI Practitioner
 
 [![Open to Work](https://img.shields.io/badge/Open%20to-Internships%20%7C%20Entry--Level%20%7C%20Remote-success?style=for-the-badge)](#-lets-connect)
 [![Location](https://img.shields.io/badge/Location-India-informational?style=for-the-badge)](#)
