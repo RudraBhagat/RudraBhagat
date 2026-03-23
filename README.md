@@ -10,9 +10,7 @@
 
 ## About Me
 
-I build data-driven and machine learning solutions that solve real-world problems.
-
-With practical experience in predictive modeling, time series forecasting, and AI-powered applications, I focus on transforming raw data into actionable insights and reliable models. I am passionate about applied AI, continuous learning, and delivering systems that are practical, scalable, and impactful.
+I build data-driven and machine learning solutions that solve real-world problems. With practical experience in predictive modeling, time series forecasting, and AI-powered applications, I focus on transforming raw data into actionable insights and reliable models. I am passionate about applied AI, continuous learning, and delivering systems that are practical, scalable, and impactful.
 
 ---
 
